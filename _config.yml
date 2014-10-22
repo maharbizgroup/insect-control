@@ -1,0 +1,12 @@
+# Site settings
+title: Maharbiz Group Cyborg Insects
+email: mann@berkeley.edu
+description: "Maharbiz Group Insect Control Project"
+baseurl: ""
+url: ""
+twitter_username: 
+github_username:  maharbizgroup
+
+# Build settings
+markdown: kramdown
+permalink: pretty
